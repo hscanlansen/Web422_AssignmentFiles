@@ -1,0 +1,15 @@
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/bin/Debug/net9.0/S25
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/bin/Debug/net9.0/S25.deps.json
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/bin/Debug/net9.0/S25.runtimeconfig.json
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/bin/Debug/net9.0/S25.dll
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/bin/Debug/net9.0/S25.pdb
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.AssemblyInfoInputs.cache
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.AssemblyInfo.cs
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.csproj.CoreCompileInputs.cache
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.sourcelink.json
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.dll
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/refint/S25.dll
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.pdb
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/S25.genruntimeconfig.cache
+/Users/harryscanlan/Documents/Projects/Seneca/WEB422/S25/obj/Debug/net9.0/ref/S25.dll
